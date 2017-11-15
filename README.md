@@ -1,0 +1,1 @@
+# MERN-survey-app. This project is still a work in progress. It will be a fullstack React/Redux application that allows a user to log in, purchase a package to send out eamils to a list of contacts. Makes use of Google O Auth for signing in and various other popular frameworks.
